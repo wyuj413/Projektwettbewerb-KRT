@@ -16,11 +16,7 @@ This Project is for use of the course "Projektwettbewerb Konzepte der Regelungst
 
 ## Contributions
 
-The controller design part, within the file controller.m, was established by me, Y. Wang, and my colleague, P. Yang. The other parts that support the whole project, was given by J. M. Montenbruck back in 2013. For contact:
-
-To me: [st171307@stud.uni-stuttgart.de](mailto:st171307@stud.uni-stuttgart.de)
-
-To Mr. Montenbruck: [jan-maximilian.montenbruck@ist.uni-stuttgart.de](mailto:jan-maximilian.montenbruck@ist.uni-stuttgart.de)
+The controller design part, within the file controller.m, was established by me, Y. Wang, and my colleague, P. Yang. The other parts that support the whole project, was given by J. M. Montenbruck back in 2013. 
 
 ## Acknowledgements
 
