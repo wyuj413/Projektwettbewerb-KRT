@@ -6,9 +6,8 @@ This Project is for use of the course "Projektwettbewerb Konzepte der Regelungst
 
 1. Extract the file in a folder.
 2. Open MATLAB and set current folder to where you have just extract the file.
-3. Run in Command Window: simulate_controlled_singletrack(t_f), where t_f is the simulation time.
-4. After some time a figure window will pop up and show the trajectory of the vehicle on the track.
-5. The control algorithm is included within the file controller.m, where one can modify it.
+3. Run the script init.m. After some time a figure window will pop up and show the trajectory of the vehicle on the track.
+4. The control algorithm is included within the file controller.m, where one can modify it.
 
 ## Features
 
