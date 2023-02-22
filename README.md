@@ -1,6 +1,6 @@
 # Projektwettbewerb-KRT
 
-This Project is for use of the course "Projektwettbewerb Konzepte der Regelungstechnik" or in English "Project Competition of Concepts of the Control Technique" at Institute for Systems Theory and Automatic Control of University of Stuttgart, Germany, held by Professor F. Allgoewer. This project design the control algorithm for a simulated vehicle so that it can automatically travel around a given circuit.
+This Project is for use of the course "Projektwettbewerb Konzepte der Regelungstechnik" or in English "Project Competition of Concepts of the Control Technique" at Institute for Systems Theory and Automatic Control of University of Stuttgart, Germany, held by Professor F. Allgoewer. The task is to design the control algorithm for a simulated vehicle so that it can automatically travel around a given circuit.
 
 ## Usage
 
